@@ -1,0 +1,37 @@
+[0.715s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/mobile': PYTHONPATH=/home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mobile build --build-base /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/install.log --single-version-externally-managed
+[0.945s] running egg_info
+[0.945s] creating build/mobile/mobile.egg-info
+[0.945s] writing build/mobile/mobile.egg-info/PKG-INFO
+[0.945s] writing dependency_links to build/mobile/mobile.egg-info/dependency_links.txt
+[0.945s] writing entry points to build/mobile/mobile.egg-info/entry_points.txt
+[0.945s] writing requirements to build/mobile/mobile.egg-info/requires.txt
+[0.945s] writing top-level names to build/mobile/mobile.egg-info/top_level.txt
+[0.946s] writing manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+[0.947s] reading manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+[0.947s] writing manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+[0.947s] running build
+[0.947s] running build_py
+[0.947s] creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build
+[0.947s] creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib
+[0.947s] creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+[0.948s] copying mobile/move.py -> /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+[0.954s] copying mobile/__init__.py -> /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+[0.954s] running install
+[0.954s] running install_lib
+[0.954s] creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+[0.955s] copying /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile/move.py -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+[0.955s] copying /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile/__init__.py -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+[0.955s] byte-compiling /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile/move.py to move.cpython-310.pyc
+[0.955s] byte-compiling /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile/__init__.py to __init__.cpython-310.pyc
+[0.955s] running install_data
+[0.956s] creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index
+[0.956s] creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index
+[0.956s] creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index/packages
+[0.956s] copying resource/mobile -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index/packages
+[0.956s] copying package.xml -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/mobile
+[0.956s] running install_egg_info
+[0.957s] Copying build/mobile/mobile.egg-info to /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile-0.0.0-py3.10.egg-info
+[0.957s] running install_scripts
+[0.971s] Installing move script to /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/mobile
+[0.971s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/install.log'
+[0.989s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/mobile' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mobile build --build-base /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/install.log --single-version-externally-managed

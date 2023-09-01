@@ -1,0 +1,12 @@
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/uninstall.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/point_cloud_perception_uninstall.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/voxeling.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/planner_seg.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/clustering.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/test.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/edit_cache.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/rebuild_cache.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/list_install_components.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/install.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/install/local.dir
+/home/shriram/Desktop/ros2_practice/build/point_cloud_perception/CMakeFiles/install/strip.dir

@@ -1,0 +1,37 @@
+[0.548s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed
+[0.749s] running egg_info
+[0.749s] creating ../../build/practice/practice.egg-info
+[0.750s] writing ../../build/practice/practice.egg-info/PKG-INFO
+[0.750s] writing dependency_links to ../../build/practice/practice.egg-info/dependency_links.txt
+[0.750s] writing entry points to ../../build/practice/practice.egg-info/entry_points.txt
+[0.750s] writing requirements to ../../build/practice/practice.egg-info/requires.txt
+[0.750s] writing top-level names to ../../build/practice/practice.egg-info/top_level.txt
+[0.750s] writing manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[0.751s] reading manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[0.752s] writing manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[0.752s] running build
+[0.752s] running build_py
+[0.752s] creating /home/shriram/Desktop/ros2_practice/build/practice/build
+[0.752s] creating /home/shriram/Desktop/ros2_practice/build/practice/build/lib
+[0.752s] creating /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice
+[0.752s] copying practice/node1.py -> /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice
+[0.752s] copying practice/__init__.py -> /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice
+[0.752s] running install
+[0.752s] running install_lib
+[0.753s] creating /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice
+[0.753s] copying /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice/node1.py -> /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice
+[0.753s] copying /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice/__init__.py -> /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice
+[0.753s] byte-compiling /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice/node1.py to node1.cpython-310.pyc
+[0.754s] byte-compiling /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice/__init__.py to __init__.cpython-310.pyc
+[0.754s] running install_data
+[0.754s] creating /home/shriram/Desktop/ros2_practice/install/practice/share/ament_index
+[0.754s] creating /home/shriram/Desktop/ros2_practice/install/practice/share/ament_index/resource_index
+[0.754s] creating /home/shriram/Desktop/ros2_practice/install/practice/share/ament_index/resource_index/packages
+[0.754s] copying resource/practice -> /home/shriram/Desktop/ros2_practice/install/practice/share/ament_index/resource_index/packages
+[0.754s] copying package.xml -> /home/shriram/Desktop/ros2_practice/install/practice/share/practice
+[0.754s] running install_egg_info
+[0.755s] Copying ../../build/practice/practice.egg-info to /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice-0.0.0-py3.10.egg-info
+[0.756s] running install_scripts
+[0.770s] Installing node1 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[0.770s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/practice/install.log'
+[0.793s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed

@@ -1,0 +1,8 @@
+-- Configuring incomplete, errors occurred!
+See also "/home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin/CMakeFiles/CMakeOutput.log".
+[31mCMake Error at CMakeLists.txt:3:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "​".
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

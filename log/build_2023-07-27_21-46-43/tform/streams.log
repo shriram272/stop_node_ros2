@@ -1,0 +1,26 @@
+[1.477s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/tform': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/tform/build
+[1.728s] running develop
+[1.974s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/tform' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/tform/build
+[1.976s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/tform': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tform build --build-base /home/shriram/Desktop/ros2_practice/build/tform/build install --record /home/shriram/Desktop/ros2_practice/build/tform/install.log --single-version-externally-managed
+[2.215s] running egg_info
+[2.215s] writing ../../build/tform/tform.egg-info/PKG-INFO
+[2.215s] writing dependency_links to ../../build/tform/tform.egg-info/dependency_links.txt
+[2.216s] writing entry points to ../../build/tform/tform.egg-info/entry_points.txt
+[2.216s] writing requirements to ../../build/tform/tform.egg-info/requires.txt
+[2.216s] writing top-level names to ../../build/tform/tform.egg-info/top_level.txt
+[2.217s] reading manifest file '../../build/tform/tform.egg-info/SOURCES.txt'
+[2.222s] writing manifest file '../../build/tform/tform.egg-info/SOURCES.txt'
+[2.222s] running build
+[2.222s] running build_py
+[2.223s] running install
+[2.223s] running install_lib
+[2.224s] running install_data
+[2.224s] running install_egg_info
+[2.225s] removing '/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform-0.0.0-py3.10.egg-info' (and everything under it)
+[2.226s] Copying ../../build/tform/tform.egg-info to /home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform-0.0.0-py3.10.egg-info
+[2.226s] running install_scripts
+[2.242s] Installing circ script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+[2.242s] Installing dyn script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+[2.242s] Installing dyn2 script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+[2.242s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/tform/install.log'
+[2.288s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/tform' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tform build --build-base /home/shriram/Desktop/ros2_practice/build/tform/build install --record /home/shriram/Desktop/ros2_practice/build/tform/install.log --single-version-externally-managed

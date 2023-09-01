@@ -1,0 +1,9 @@
+[console_scripts]
+circ = practice.circ:main
+controller = practice.controller:main
+move2 = practice.move2:main
+node1 = practice.node1:main
+parabola = practice.parabola:main
+parabolic_curve = practice.parabolic_curve:main
+pose = practice.pose:main
+

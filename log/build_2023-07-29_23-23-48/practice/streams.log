@@ -1,0 +1,28 @@
+[4.480s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build
+[5.018s] running develop
+[5.633s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build
+[5.636s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed
+[6.269s] running egg_info
+[6.272s] writing ../../build/practice/practice.egg-info/PKG-INFO
+[6.272s] writing dependency_links to ../../build/practice/practice.egg-info/dependency_links.txt
+[6.272s] writing entry points to ../../build/practice/practice.egg-info/entry_points.txt
+[6.273s] writing requirements to ../../build/practice/practice.egg-info/requires.txt
+[6.273s] writing top-level names to ../../build/practice/practice.egg-info/top_level.txt
+[6.278s] reading manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[6.278s] writing manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[6.279s] running build
+[6.279s] running build_py
+[6.282s] running install
+[6.282s] running install_lib
+[6.285s] running install_data
+[6.286s] running install_egg_info
+[6.289s] removing '/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice-0.0.0-py3.10.egg-info' (and everything under it)
+[6.290s] Copying ../../build/practice/practice.egg-info to /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice-0.0.0-py3.10.egg-info
+[6.291s] running install_scripts
+[6.332s] Installing circ script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[6.333s] Installing controller script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[6.333s] Installing move2 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[6.333s] Installing node1 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[6.333s] Installing pose script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[6.333s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/practice/install.log'
+[6.511s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed

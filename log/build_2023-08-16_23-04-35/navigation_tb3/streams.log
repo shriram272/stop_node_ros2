@@ -1,0 +1,52 @@
+[0.563s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation_tb3 -- -j12 -l12
+[1.329s] [100%] Built target pub_occupancy_grid
+[1.329s] [100%] Built target ament_cmake_python_copy_navigation_tb3
+[1.329s] running egg_info
+[1.329s] writing navigation_tb3.egg-info/PKG-INFO
+[1.329s] writing dependency_links to navigation_tb3.egg-info/dependency_links.txt
+[1.329s] writing top-level names to navigation_tb3.egg-info/top_level.txt
+[1.329s] reading manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[1.329s] writing manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[1.329s] [100%] Built target ament_cmake_python_build_navigation_tb3_egg
+[1.334s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation_tb3 -- -j12 -l12
+[1.369s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation_tb3
+[1.398s] -- Install configuration: ""
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/lib/navigation_tb3/pub_occupancy_grid
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/launch
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/launch/navigation.launch.py
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/launch/mapping.launch.py
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config
+[1.398s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/mapping.rviz
+[1.399s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/navigation.rviz
+[1.399s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/tb3_map.pgm
+[1.399s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/turtlebot3_lds_2d.lua
+[1.403s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/tb3_map.yaml
+[1.403s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/config/tb3_nav2_params.yaml
+[1.404s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/pythonpath.sh
+[1.405s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/pythonpath.dsv
+[1.406s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info
+[1.406s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.408s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.408s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/PKG-INFO
+[1.408s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/top_level.txt
+[1.409s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3
+[1.409s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3/__init__.py
+[1.422s] Listing '/home/shriram/Desktop/ros2_practice/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3'...
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/lib/navigation_tb3/single_goal_nav.py
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/lib/navigation_tb3/multi_waypoints.py
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/ament_index/resource_index/package_run_dependencies/navigation_tb3
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/ament_index/resource_index/parent_prefix_path/navigation_tb3
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/ament_prefix_path.sh
+[1.433s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/ament_prefix_path.dsv
+[1.434s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/path.sh
+[1.434s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/environment/path.dsv
+[1.434s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/local_setup.bash
+[1.434s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/local_setup.sh
+[1.434s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/local_setup.zsh
+[1.435s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/local_setup.dsv
+[1.435s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/package.dsv
+[1.435s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/ament_index/resource_index/packages/navigation_tb3
+[1.435s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/cmake/navigation_tb3Config.cmake
+[1.435s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/cmake/navigation_tb3Config-version.cmake
+[1.435s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation_tb3/share/navigation_tb3/package.xml
+[1.472s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation_tb3

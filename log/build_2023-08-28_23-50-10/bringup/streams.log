@@ -1,0 +1,10 @@
+[0.006s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/bringup': AMENT_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/bringup
+[0.017s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.087s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.142s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.150s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.219s] -- Added test 'lint_cmake' to check CMake code style
+[0.219s] -- Added test 'xmllint' to check XML markup files
+[0.220s] -- Configuring done
+[0.224s] -- Generating done
+[0.225s] -- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/bringup

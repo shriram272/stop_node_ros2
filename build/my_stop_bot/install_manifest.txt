@@ -1,0 +1,16 @@
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/lib/my_stop_bot/stop_bot
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/package_run_dependencies/my_stop_bot
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/parent_prefix_path/my_stop_bot
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.sh
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.dsv
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.sh
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.dsv
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.bash
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.sh
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.zsh
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.dsv
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.dsv
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/packages/my_stop_bot
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig.cmake
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig-version.cmake
+/home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.xml

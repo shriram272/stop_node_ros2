@@ -1,0 +1,6 @@
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/navigation -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/navigation
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/navigation -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/navigation
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation -- -j12 -l12
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation -- -j12 -l12
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation

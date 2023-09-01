@@ -1,0 +1,4 @@
+[console_scripts]
+webcam = cv_basics.webcam:main
+webcam2 = cv_basics.webcam2:main
+

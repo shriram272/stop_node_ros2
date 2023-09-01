@@ -1,0 +1,28 @@
+[1.494s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation -- -j12 -l12
+[2.855s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation -- -j12 -l12
+[2.973s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation
+[3.011s] -- Install configuration: ""
+[3.011s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/launch
+[3.011s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/launch/navigation.launch.py
+[3.011s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config
+[3.014s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config/mapping.rviz
+[3.015s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config/navigation.rviz
+[3.022s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config/tb3_map.pgm
+[3.022s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config/tb3_map.yaml
+[3.022s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/config/tb3_nav2_params.yaml
+[3.022s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/ament_index/resource_index/package_run_dependencies/navigation
+[3.025s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/ament_index/resource_index/parent_prefix_path/navigation
+[3.026s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/environment/ament_prefix_path.sh
+[3.026s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/environment/ament_prefix_path.dsv
+[3.026s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/environment/path.sh
+[3.026s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/environment/path.dsv
+[3.026s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/local_setup.bash
+[3.027s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/local_setup.sh
+[3.028s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/local_setup.zsh
+[3.028s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/local_setup.dsv
+[3.029s] -- Installing: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/package.dsv
+[3.030s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/ament_index/resource_index/packages/navigation
+[3.050s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/cmake/navigationConfig.cmake
+[3.050s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/cmake/navigationConfig-version.cmake
+[3.050s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/navigation/share/navigation/package.xml
+[3.061s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation

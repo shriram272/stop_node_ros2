@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libstop_bot_action.so -o libstop_bot_action.so CMakeFiles/stop_bot_action.dir/src/stop_bot_action.cpp.o  -lrclcpp -lrclcpp_action -lstd_msgs -lgeometry_msgs -lnav2_behavior_tree -lnav_msgs -lnav2_msgs -lbehaviortree_cpp_v3 -lnav2_util -lnav2_core 

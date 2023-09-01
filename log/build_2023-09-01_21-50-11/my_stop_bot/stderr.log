@@ -1,0 +1,10 @@
+[01m[K/home/shriram/Desktop/ros2_practice/src/my_stop_bot/src/stop_bot.cpp:[m[K In member function ‘[01m[Kvoid StopBot::stop_robot()[m[K’:
+[01m[K/home/shriram/Desktop/ros2_practice/src/my_stop_bot/src/stop_bot.cpp:29:21:[m[K [01;31m[Kerror: [m[K‘[01m[Krclcpp::executor[m[K’ has not been declared
+   29 |             rclcpp::[01;31m[Kexecutor[m[K::FutureReturnCode::SUCCESS)
+      |                     [01;31m[K^~~~~~~~[m[K
+[01m[K/home/shriram/Desktop/ros2_practice/src/my_stop_bot/src/stop_bot.cpp:45:21:[m[K [01;31m[Kerror: [m[K‘[01m[Krclcpp::executor[m[K’ has not been declared
+   45 |             rclcpp::[01;31m[Kexecutor[m[K::FutureReturnCode::SUCCESS)
+      |                     [01;31m[K^~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/stop_bot.dir/build.make:76: CMakeFiles/stop_bot.dir/src/stop_bot.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/stop_bot.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

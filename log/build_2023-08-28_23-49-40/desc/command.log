@@ -1,0 +1,3 @@
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/desc': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/desc -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/desc
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/desc' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/desc -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/desc
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/desc': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/desc -- -j12 -l12

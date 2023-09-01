@@ -1,0 +1,33 @@
+[1.776s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/description': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/description/prefix_override:/home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/description build --build-base /home/shriram/Desktop/ros2_practice/build/description/build install --record /home/shriram/Desktop/ros2_practice/build/description/install.log --single-version-externally-managed
+[2.011s] running egg_info
+[2.011s] creating ../../build/description/description.egg-info
+[2.011s] writing ../../build/description/description.egg-info/PKG-INFO
+[2.012s] writing dependency_links to ../../build/description/description.egg-info/dependency_links.txt
+[2.012s] writing entry points to ../../build/description/description.egg-info/entry_points.txt
+[2.012s] writing requirements to ../../build/description/description.egg-info/requires.txt
+[2.012s] writing top-level names to ../../build/description/description.egg-info/top_level.txt
+[2.012s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.014s] reading manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.015s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.015s] running build
+[2.015s] running build_py
+[2.015s] creating /home/shriram/Desktop/ros2_practice/build/description/build
+[2.015s] creating /home/shriram/Desktop/ros2_practice/build/description/build/lib
+[2.015s] creating /home/shriram/Desktop/ros2_practice/build/description/build/lib/description
+[2.015s] copying description/__init__.py -> /home/shriram/Desktop/ros2_practice/build/description/build/lib/description
+[2.015s] running install
+[2.016s] running install_lib
+[2.016s] creating /home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description
+[2.016s] copying /home/shriram/Desktop/ros2_practice/build/description/build/lib/description/__init__.py -> /home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description
+[2.016s] byte-compiling /home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description/__init__.py to __init__.cpython-310.pyc
+[2.016s] running install_data
+[2.017s] creating /home/shriram/Desktop/ros2_practice/install/description/share/ament_index
+[2.017s] creating /home/shriram/Desktop/ros2_practice/install/description/share/ament_index/resource_index
+[2.017s] creating /home/shriram/Desktop/ros2_practice/install/description/share/ament_index/resource_index/packages
+[2.017s] copying resource/description -> /home/shriram/Desktop/ros2_practice/install/description/share/ament_index/resource_index/packages
+[2.017s] copying package.xml -> /home/shriram/Desktop/ros2_practice/install/description/share/description
+[2.017s] running install_egg_info
+[2.018s] Copying ../../build/description/description.egg-info to /home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description-0.0.0-py3.10.egg-info
+[2.019s] running install_scripts
+[2.039s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/description/install.log'
+[2.114s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/description' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/description/prefix_override:/home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/description build --build-base /home/shriram/Desktop/ros2_practice/build/description/build install --record /home/shriram/Desktop/ros2_practice/build/description/install.log --single-version-externally-managed

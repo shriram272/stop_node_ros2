@@ -1,0 +1,4 @@
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation_tb3 -- -j12 -l12
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/navigation_tb3 -- -j12 -l12
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation_tb3
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/navigation_tb3

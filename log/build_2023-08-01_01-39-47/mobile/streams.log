@@ -1,0 +1,17 @@
+[1.840s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/mobile': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/mobile/build --no-deps install_data
+[2.113s] running develop
+[2.324s] running egg_info
+[2.325s] writing mobile.egg-info/PKG-INFO
+[2.325s] writing dependency_links to mobile.egg-info/dependency_links.txt
+[2.325s] writing entry points to mobile.egg-info/entry_points.txt
+[2.325s] writing requirements to mobile.egg-info/requires.txt
+[2.325s] writing top-level names to mobile.egg-info/top_level.txt
+[2.328s] reading manifest file 'mobile.egg-info/SOURCES.txt'
+[2.329s] writing manifest file 'mobile.egg-info/SOURCES.txt'
+[2.330s] running build_ext
+[2.330s] Creating /home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile.egg-link (link to .)
+[2.331s] Installing move script to /home/shriram/Desktop/ros2_practice/install/mobile/lib/mobile
+[2.331s] 
+[2.331s] Installed /home/shriram/Desktop/ros2_practice/build/mobile
+[2.331s] running install_data
+[2.384s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/mobile' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/mobile/build --no-deps install_data

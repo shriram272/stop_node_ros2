@@ -1,0 +1,40 @@
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/desc
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/bumperbot.urdf.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/bumperbot_gazebo.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/common_properties.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/mobile_base.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/my_robot.urdf.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/myrob.urdf
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/soln.urdf.xacro
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display.launch.py
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display.launch.xml
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display1.launch.py
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display1.launch.xml
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//rviz/urdf_config.rviz
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/package_run_dependencies/desc
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/parent_prefix_path/desc
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/path.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/path.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.bash
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.zsh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/package.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/packages/desc
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/cmake/descConfig.cmake
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/cmake/descConfig-version.cmake
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/package.xml

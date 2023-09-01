@@ -1,0 +1,32 @@
+[0.008s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/bringup': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/bringup
+[0.018s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.142s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.149s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.212s] -- Added test 'lint_cmake' to check CMake code style
+[0.212s] -- Added test 'xmllint' to check XML markup files
+[0.214s] -- Configuring done
+[0.218s] -- Generating done
+[0.218s] -- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/bringup
+[0.221s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/bringup' returned '0': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/bringup
+[0.222s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/bringup': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/bringup -- -j12 -l12
+[0.252s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/bringup' returned '0': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/bringup -- -j12 -l12
+[0.271s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/bringup': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/bringup
+[0.279s] -- Install configuration: ""
+[0.279s] -- Execute custom install script
+[0.279s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup//launch/my_robot_gazebo.launch.xml
+[0.286s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/ament_index/resource_index/package_run_dependencies/bringup
+[0.295s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/ament_index/resource_index/parent_prefix_path/bringup
+[0.304s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/environment/ament_prefix_path.sh
+[0.311s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/environment/ament_prefix_path.dsv
+[0.321s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/environment/path.sh
+[0.330s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/environment/path.dsv
+[0.339s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/local_setup.bash
+[0.347s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/local_setup.sh
+[0.356s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/local_setup.zsh
+[0.365s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/local_setup.dsv
+[0.374s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/package.dsv
+[0.383s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/ament_index/resource_index/packages/bringup
+[0.392s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/cmake/bringupConfig.cmake
+[0.401s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/cmake/bringupConfig-version.cmake
+[0.407s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/bringup/share/bringup/package.xml
+[0.418s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/bringup' returned '0': CMAKE_PREFIX_PATH=/home/shriram/Desktop/ros2_practice/install/desc:/home/shriram/Desktop/ros2_practice/install/bringup:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/bringup

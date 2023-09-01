@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/pub_node.dir/src/publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable pub_node[0m
+[100%] Built target pub_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/pub_node
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/package_run_dependencies/nodes2
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/parent_prefix_path/nodes2
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.sh
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.sh
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.bash
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.sh
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.zsh
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/packages/nodes2
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config.cmake
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config-version.cmake
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.xml

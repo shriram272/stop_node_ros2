@@ -1,0 +1,24 @@
+[0.618s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/my_stop_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/my_stop_bot -- -j12 -l12
+[1.193s] [35m[1mConsolidate compiler generated dependencies of target stop_bot[0m
+[1.193s] [ 50%] [32mBuilding CXX object CMakeFiles/stop_bot.dir/src/stop_bot.cpp.o[0m
+[4.570s] [100%] [32m[1mLinking CXX executable stop_bot[0m
+[4.757s] [100%] Built target stop_bot
+[4.764s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/my_stop_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/my_stop_bot -- -j12 -l12
+[4.780s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/my_stop_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/my_stop_bot
+[4.785s] -- Install configuration: ""
+[4.785s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/package_run_dependencies/my_stop_bot
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/parent_prefix_path/my_stop_bot
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.sh
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.dsv
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.sh
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.dsv
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.bash
+[4.786s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.sh
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.zsh
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.dsv
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.dsv
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/packages/my_stop_bot
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig.cmake
+[4.787s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig-version.cmake
+[4.788s] -- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.xml
+[4.789s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/my_stop_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/my_stop_bot

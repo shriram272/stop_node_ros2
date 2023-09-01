@@ -1,0 +1,7 @@
+[01m[K/home/shriram/Desktop/ros2_practice/src/custom_plugin/src/stop_bot_action.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kstop_bot_plugin/stop_bot_plugin.hpp: No such file or directory
+    1 | #include [01;31m[K"stop_bot_plugin/stop_bot_plugin.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/stop_bot_action.dir/build.make:76: CMakeFiles/stop_bot_action.dir/src/stop_bot_action.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/stop_bot_action.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,39 @@
+[0.293s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/desc -- -j12 -l12
+[1.112s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.112s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.113s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.113s] -- Added test 'lint_cmake' to check CMake code style
+[1.113s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.113s] -- Added test 'xmllint' to check XML markup files
+[1.113s] -- Configuring done
+[1.113s] -- Generating done
+[1.113s] -- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/desc
+[1.119s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/desc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/desc -- -j12 -l12
+[1.142s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/desc
+[1.148s] -- Install configuration: ""
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/soln.urdf
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/bumperbot_gazebo.xacro
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/myrob.urdf
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//urdf/bumperbot.urdf.xacro
+[1.148s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch
+[1.149s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display.launch.xml
+[1.149s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//launch/display.launch.py
+[1.149s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//rviz
+[1.149s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc//rviz/urdf_config.rviz
+[1.149s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/package_run_dependencies/desc
+[1.149s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/parent_prefix_path/desc
+[1.149s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/ament_prefix_path.sh
+[1.150s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/ament_prefix_path.dsv
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/path.sh
+[1.150s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/environment/path.dsv
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.bash
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.sh
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.zsh
+[1.150s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/local_setup.dsv
+[1.150s] -- Installing: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/package.dsv
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/ament_index/resource_index/packages/desc
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/cmake/descConfig.cmake
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/cmake/descConfig-version.cmake
+[1.150s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/desc/share/desc/package.xml
+[1.152s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/desc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/desc

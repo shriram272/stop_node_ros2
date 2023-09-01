@@ -1,0 +1,21 @@
+[1.649s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build --no-deps install_data
+[1.921s] running develop
+[2.126s] running egg_info
+[2.126s] writing practice.egg-info/PKG-INFO
+[2.127s] writing dependency_links to practice.egg-info/dependency_links.txt
+[2.127s] writing entry points to practice.egg-info/entry_points.txt
+[2.127s] writing requirements to practice.egg-info/requires.txt
+[2.127s] writing top-level names to practice.egg-info/top_level.txt
+[2.129s] reading manifest file 'practice.egg-info/SOURCES.txt'
+[2.130s] writing manifest file 'practice.egg-info/SOURCES.txt'
+[2.132s] running build_ext
+[2.132s] Creating /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice.egg-link (link to .)
+[2.133s] Installing circ script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.133s] Installing controller script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.133s] Installing move2 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.133s] Installing node1 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.133s] Installing pose script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.134s] 
+[2.134s] Installed /home/shriram/Desktop/ros2_practice/build/practice
+[2.134s] running install_data
+[2.207s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build --no-deps install_data

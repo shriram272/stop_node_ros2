@@ -1,0 +1,18 @@
+[0.056s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin -- -j12 -l12
+[1.162s] [35m[1mConsolidate compiler generated dependencies of target custom_nav2_costmap_plugin_core[0m
+[1.163s] [ 50%] [32mBuilding CXX object CMakeFiles/custom_nav2_costmap_plugin_core.dir/src/gradient_layer.cpp.o[0m
+[2.452s] [01m[K/home/shriram/Desktop/ros2_practice/src/custom_nav2_costmap_plugin/src/gradient_layer.cpp:2:1:[m[K [01;31m[Kerror: [m[K‘[01m[K​[m[K’ does not name a type
+[2.452s]     2 | [01;31m[K​[m[K
+[2.452s]       |  
+[2.474s] [01m[K/home/shriram/Desktop/ros2_practice/src/custom_nav2_costmap_plugin/src/gradient_layer.cpp:6:1:[m[K [01;31m[Kerror: [m[K‘[01m[K​[m[K’ does not name a type
+[2.474s]     6 | [01;31m[K​[m[K
+[2.474s]       |  
+[2.474s] [01m[K/home/shriram/Desktop/ros2_practice/src/custom_nav2_costmap_plugin/src/gradient_layer.cpp:10:1:[m[K [01;31m[Kerror: [m[K‘[01m[K​[m[K’ does not name a type
+[2.474s]    10 | [01;31m[K​[m[K
+[2.475s]       |  
+[2.475s] [01m[K/home/shriram/Desktop/ros2_practice/src/custom_nav2_costmap_plugin/src/gradient_layer.cpp:143:1:[m[K [01;31m[Kerror: [m[K‘[01m[K​[m[K’ does not name a type
+[2.475s]   143 | [01;31m[K​[m[K
+[2.475s]       |  
+[2.916s] gmake[2]: *** [CMakeFiles/custom_nav2_costmap_plugin_core.dir/build.make:76: CMakeFiles/custom_nav2_costmap_plugin_core.dir/src/gradient_layer.cpp.o] Error 1
+[2.916s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/custom_nav2_costmap_plugin_core.dir/all] Error 2
+[2.916s] gmake: *** [Makefile:146: all] Error 2

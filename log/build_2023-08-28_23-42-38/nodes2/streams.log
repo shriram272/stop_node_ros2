@@ -1,0 +1,20 @@
+[0.509s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[1.001s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[1.025s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2
+[1.030s] -- Install configuration: ""
+[1.030s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/package_run_dependencies/nodes2
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/parent_prefix_path/nodes2
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.sh
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.dsv
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.sh
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.dsv
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.bash
+[1.031s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.sh
+[1.032s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.zsh
+[1.032s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.dsv
+[1.032s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.dsv
+[1.032s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/packages/nodes2
+[1.033s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config.cmake
+[1.034s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config-version.cmake
+[1.034s] -- Up-to-date: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.xml
+[1.035s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2

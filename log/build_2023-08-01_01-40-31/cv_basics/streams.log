@@ -1,0 +1,18 @@
+[1.792s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/cv_basics': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/cv_basics/prefix_override:/home/shriram/Desktop/ros2_practice/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/cv_basics/build --no-deps install_data
+[2.062s] running develop
+[2.265s] running egg_info
+[2.266s] writing cv_basics.egg-info/PKG-INFO
+[2.266s] writing dependency_links to cv_basics.egg-info/dependency_links.txt
+[2.266s] writing entry points to cv_basics.egg-info/entry_points.txt
+[2.266s] writing requirements to cv_basics.egg-info/requires.txt
+[2.266s] writing top-level names to cv_basics.egg-info/top_level.txt
+[2.268s] reading manifest file 'cv_basics.egg-info/SOURCES.txt'
+[2.268s] writing manifest file 'cv_basics.egg-info/SOURCES.txt'
+[2.270s] running build_ext
+[2.270s] Creating /home/shriram/Desktop/ros2_practice/install/cv_basics/lib/python3.10/site-packages/cv-basics.egg-link (link to .)
+[2.270s] Installing webcam script to /home/shriram/Desktop/ros2_practice/install/cv_basics/lib/cv_basics
+[2.271s] Installing webcam2 script to /home/shriram/Desktop/ros2_practice/install/cv_basics/lib/cv_basics
+[2.271s] 
+[2.271s] Installed /home/shriram/Desktop/ros2_practice/build/cv_basics
+[2.271s] running install_data
+[2.341s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/cv_basics' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/cv_basics/prefix_override:/home/shriram/Desktop/ros2_practice/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/cv_basics/build --no-deps install_data

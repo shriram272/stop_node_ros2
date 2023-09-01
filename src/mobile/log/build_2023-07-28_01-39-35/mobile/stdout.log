@@ -1,0 +1,35 @@
+running egg_info
+creating build/mobile/mobile.egg-info
+writing build/mobile/mobile.egg-info/PKG-INFO
+writing dependency_links to build/mobile/mobile.egg-info/dependency_links.txt
+writing entry points to build/mobile/mobile.egg-info/entry_points.txt
+writing requirements to build/mobile/mobile.egg-info/requires.txt
+writing top-level names to build/mobile/mobile.egg-info/top_level.txt
+writing manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+reading manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+writing manifest file 'build/mobile/mobile.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build
+creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib
+creating /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+copying mobile/move.py -> /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+copying mobile/__init__.py -> /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile
+running install
+running install_lib
+creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+copying /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile/move.py -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+copying /home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/build/lib/mobile/__init__.py -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile
+byte-compiling /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile/move.py to move.cpython-310.pyc
+byte-compiling /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index
+creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index
+creating /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index/packages
+copying resource/mobile -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/ament_index/resource_index/packages
+copying package.xml -> /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/share/mobile
+running install_egg_info
+Copying build/mobile/mobile.egg-info to /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/python3.10/site-packages/mobile-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move script to /home/shriram/Desktop/ros2_practice/src/mobile/install/mobile/lib/mobile
+writing list of installed files to '/home/shriram/Desktop/ros2_practice/src/mobile/build/mobile/install.log'

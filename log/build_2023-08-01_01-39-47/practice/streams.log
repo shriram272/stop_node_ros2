@@ -1,0 +1,22 @@
+[1.828s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build --no-deps install_data
+[2.097s] running develop
+[2.329s] running egg_info
+[2.329s] writing practice.egg-info/PKG-INFO
+[2.329s] writing dependency_links to practice.egg-info/dependency_links.txt
+[2.329s] writing entry points to practice.egg-info/entry_points.txt
+[2.329s] writing requirements to practice.egg-info/requires.txt
+[2.329s] writing top-level names to practice.egg-info/top_level.txt
+[2.333s] reading manifest file 'practice.egg-info/SOURCES.txt'
+[2.333s] writing manifest file 'practice.egg-info/SOURCES.txt'
+[2.333s] running build_ext
+[2.334s] Creating /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice.egg-link (link to .)
+[2.336s] Installing circ script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.337s] Installing controller script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.337s] Installing move2 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.337s] Installing node1 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.338s] Installing parabolic_curve script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.338s] Installing pose script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.338s] 
+[2.340s] Installed /home/shriram/Desktop/ros2_practice/build/practice
+[2.340s] running install_data
+[2.394s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build --no-deps install_data

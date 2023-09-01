@@ -1,0 +1,26 @@
+[0.701s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[1.158s] [35m[1mConsolidate compiler generated dependencies of target sub_node[0m
+[1.159s] [ 50%] Built target pub_node
+[1.159s] [100%] Built target sub_node
+[1.510s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[1.560s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2
+[1.574s] -- Install configuration: ""
+[1.574s] -- Execute custom install script
+[1.575s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/pub_node
+[1.575s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/sub_node
+[1.576s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/package_run_dependencies/nodes2
+[1.577s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/parent_prefix_path/nodes2
+[1.577s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.sh
+[1.577s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.dsv
+[1.578s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.sh
+[1.578s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.dsv
+[1.578s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.bash
+[1.578s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.sh
+[1.579s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.zsh
+[1.580s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.dsv
+[1.580s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.dsv
+[1.597s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/packages/nodes2
+[1.597s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config.cmake
+[1.597s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config-version.cmake
+[1.597s] -- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.xml
+[1.604s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2

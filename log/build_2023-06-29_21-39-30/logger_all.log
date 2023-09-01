@@ -1,0 +1,227 @@
+[0.257s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.257s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=12, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f1e7eca02e0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f1e7eee3d30>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f1e7eee3d30>>)
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.274s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.274s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/shriram/Desktop/ros2_practice'
+[0.274s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.274s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.274s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.274s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.274s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.275s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.275s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.275s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.275s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.284s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extensions ['ignore', 'ignore_ament_install']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extension 'ignore'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extension 'ignore_ament_install'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extensions ['colcon_pkg']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extension 'colcon_pkg'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extensions ['colcon_meta']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extension 'colcon_meta'
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extensions ['ros']
+[0.285s] Level 1:colcon.colcon_core.package_identification:_identify(src/mobile) by extension 'ros'
+[0.287s] DEBUG:colcon.colcon_core.package_identification:Package 'src/mobile' with type 'ros.ament_python' and name 'mobile'
+[0.287s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extensions ['ignore', 'ignore_ament_install']
+[0.287s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extension 'ignore'
+[0.287s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extension 'ignore_ament_install'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extensions ['colcon_pkg']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extension 'colcon_pkg'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extensions ['colcon_meta']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extension 'colcon_meta'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extensions ['ros']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/practice) by extension 'ros'
+[0.288s] DEBUG:colcon.colcon_core.package_identification:Package 'src/practice' with type 'ros.ament_python' and name 'practice'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extensions ['ignore', 'ignore_ament_install']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extension 'ignore'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extension 'ignore_ament_install'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extensions ['colcon_pkg']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extension 'colcon_pkg'
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extensions ['colcon_meta']
+[0.288s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extension 'colcon_meta'
+[0.289s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extensions ['ros']
+[0.289s] Level 1:colcon.colcon_core.package_identification:_identify(src/tform) by extension 'ros'
+[0.289s] DEBUG:colcon.colcon_core.package_identification:Package 'src/tform' with type 'ros.ament_python' and name 'tform'
+[0.289s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.289s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.289s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.289s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.289s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.308s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.308s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.310s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 3 installed packages in /home/shriram/Desktop/ros2_practice/install
+[0.311s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 271 installed packages in /opt/ros/humble
+[0.312s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_args' from command line to 'None'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_target' from command line to 'None'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_clean_cache' from command line to 'False'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_clean_first' from command line to 'False'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'cmake_force_configure' from command line to 'False'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'ament_cmake_args' from command line to 'None'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'catkin_cmake_args' from command line to 'None'
+[0.354s] Level 5:colcon.colcon_core.verb:set package 'mobile' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.354s] DEBUG:colcon.colcon_core.verb:Building package 'mobile' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/shriram/Desktop/ros2_practice/build/mobile', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/shriram/Desktop/ros2_practice/install/mobile', 'merge_install': False, 'path': '/home/shriram/Desktop/ros2_practice/src/mobile', 'symlink_install': False, 'test_result_base': None}
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_args' from command line to 'None'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_target' from command line to 'None'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_clean_cache' from command line to 'False'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_clean_first' from command line to 'False'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'cmake_force_configure' from command line to 'False'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'ament_cmake_args' from command line to 'None'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'catkin_cmake_args' from command line to 'None'
+[0.355s] Level 5:colcon.colcon_core.verb:set package 'practice' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.355s] DEBUG:colcon.colcon_core.verb:Building package 'practice' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/shriram/Desktop/ros2_practice/build/practice', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/shriram/Desktop/ros2_practice/install/practice', 'merge_install': False, 'path': '/home/shriram/Desktop/ros2_practice/src/practice', 'symlink_install': False, 'test_result_base': None}
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_args' from command line to 'None'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_target' from command line to 'None'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_clean_cache' from command line to 'False'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_clean_first' from command line to 'False'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'cmake_force_configure' from command line to 'False'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'ament_cmake_args' from command line to 'None'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'catkin_cmake_args' from command line to 'None'
+[0.356s] Level 5:colcon.colcon_core.verb:set package 'tform' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.356s] DEBUG:colcon.colcon_core.verb:Building package 'tform' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/shriram/Desktop/ros2_practice/build/tform', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/shriram/Desktop/ros2_practice/install/tform', 'merge_install': False, 'path': '/home/shriram/Desktop/ros2_practice/src/tform', 'symlink_install': False, 'test_result_base': None}
+[0.356s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.359s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.359s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/shriram/Desktop/ros2_practice/src/mobile' with build type 'ament_python'
+[0.359s] Level 1:colcon.colcon_core.shell:create_environment_hook('mobile', 'ament_prefix_path')
+[0.362s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.362s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/ament_prefix_path.ps1'
+[0.363s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/ament_prefix_path.dsv'
+[0.363s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/ament_prefix_path.sh'
+[0.364s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.364s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.368s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/shriram/Desktop/ros2_practice/src/practice' with build type 'ament_python'
+[0.368s] Level 1:colcon.colcon_core.shell:create_environment_hook('practice', 'ament_prefix_path')
+[0.369s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/ament_prefix_path.ps1'
+[0.369s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/ament_prefix_path.dsv'
+[0.369s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/ament_prefix_path.sh'
+[0.370s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.370s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.374s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/shriram/Desktop/ros2_practice/src/tform' with build type 'ament_python'
+[0.375s] Level 1:colcon.colcon_core.shell:create_environment_hook('tform', 'ament_prefix_path')
+[0.376s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/ament_prefix_path.ps1'
+[0.376s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/ament_prefix_path.dsv'
+[0.376s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/ament_prefix_path.sh'
+[0.377s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.377s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.606s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/shriram/Desktop/ros2_practice/src/mobile'
+[0.608s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.608s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.825s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/shriram/Desktop/ros2_practice/src/practice'
+[0.826s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.827s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[1.091s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/shriram/Desktop/ros2_practice/src/tform'
+[1.094s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[1.094s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[1.418s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/shriram/Desktop/ros2_practice/src/mobile': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile build --build-base /home/shriram/Desktop/ros2_practice/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/build/mobile/install.log --single-version-externally-managed
+[1.429s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/shriram/Desktop/ros2_practice/src/tform': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tform build --build-base /home/shriram/Desktop/ros2_practice/build/tform/build install --record /home/shriram/Desktop/ros2_practice/build/tform/install.log --single-version-externally-managed
+[1.433s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/shriram/Desktop/ros2_practice/src/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed
+[1.683s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/shriram/Desktop/ros2_practice/src/mobile' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile build --build-base /home/shriram/Desktop/ros2_practice/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/build/mobile/install.log --single-version-externally-managed
+[1.687s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile' for CMake module files
+[1.687s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile' for CMake config files
+[1.688s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile/lib'
+[1.688s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile/bin'
+[1.688s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile/lib/pkgconfig/mobile.pc'
+[1.688s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages'
+[1.688s] Level 1:colcon.colcon_core.shell:create_environment_hook('mobile', 'pythonpath')
+[1.690s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/pythonpath.ps1'
+[1.691s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/pythonpath.dsv'
+[1.691s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/hook/pythonpath.sh'
+[1.692s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/mobile/bin'
+[1.692s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(mobile)
+[1.694s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/package.ps1'
+[1.695s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/package.dsv'
+[1.696s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/package.sh'
+[1.697s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/package.bash'
+[1.698s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/mobile/share/mobile/package.zsh'
+[1.698s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/shriram/Desktop/ros2_practice/install/mobile/share/colcon-core/packages/mobile)
+[1.701s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform' for CMake module files
+[1.701s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/shriram/Desktop/ros2_practice/src/tform' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/tform/prefix_override:/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tform build --build-base /home/shriram/Desktop/ros2_practice/build/tform/build install --record /home/shriram/Desktop/ros2_practice/build/tform/install.log --single-version-externally-managed
+[1.701s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform' for CMake config files
+[1.702s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform/lib'
+[1.702s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform/bin'
+[1.702s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform/lib/pkgconfig/tform.pc'
+[1.702s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages'
+[1.702s] Level 1:colcon.colcon_core.shell:create_environment_hook('tform', 'pythonpath')
+[1.704s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/pythonpath.ps1'
+[1.704s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/pythonpath.dsv'
+[1.704s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/hook/pythonpath.sh'
+[1.705s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/tform/bin'
+[1.705s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(tform)
+[1.706s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/package.ps1'
+[1.706s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/package.dsv'
+[1.706s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/package.sh'
+[1.707s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/package.bash'
+[1.707s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/tform/share/tform/package.zsh'
+[1.707s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/shriram/Desktop/ros2_practice/install/tform/share/colcon-core/packages/tform)
+[1.709s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice' for CMake module files
+[1.710s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice' for CMake config files
+[1.710s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/shriram/Desktop/ros2_practice/src/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed
+[1.710s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice/lib'
+[1.710s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice/bin'
+[1.711s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice/lib/pkgconfig/practice.pc'
+[1.711s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages'
+[1.711s] Level 1:colcon.colcon_core.shell:create_environment_hook('practice', 'pythonpath')
+[1.712s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/pythonpath.ps1'
+[1.712s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/pythonpath.dsv'
+[1.712s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/hook/pythonpath.sh'
+[1.713s] Level 1:colcon.colcon_core.environment:checking '/home/shriram/Desktop/ros2_practice/install/practice/bin'
+[1.713s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(practice)
+[1.714s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/package.ps1'
+[1.714s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/package.dsv'
+[1.714s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/package.sh'
+[1.715s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/package.bash'
+[1.715s] INFO:colcon.colcon_core.shell:Creating package script '/home/shriram/Desktop/ros2_practice/install/practice/share/practice/package.zsh'
+[1.715s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/shriram/Desktop/ros2_practice/install/practice/share/colcon-core/packages/practice)
+[1.715s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.715s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.715s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.716s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.719s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.719s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.719s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.727s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.729s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/shriram/Desktop/ros2_practice/install/local_setup.ps1'
+[1.730s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/shriram/Desktop/ros2_practice/install/_local_setup_util_ps1.py'
+[1.731s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/shriram/Desktop/ros2_practice/install/setup.ps1'
+[1.733s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/shriram/Desktop/ros2_practice/install/local_setup.sh'
+[1.734s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/shriram/Desktop/ros2_practice/install/_local_setup_util_sh.py'
+[1.735s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/shriram/Desktop/ros2_practice/install/setup.sh'
+[1.738s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/shriram/Desktop/ros2_practice/install/local_setup.bash'
+[1.739s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/shriram/Desktop/ros2_practice/install/setup.bash'
+[1.742s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/shriram/Desktop/ros2_practice/install/local_setup.zsh'
+[1.743s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/shriram/Desktop/ros2_practice/install/setup.zsh'

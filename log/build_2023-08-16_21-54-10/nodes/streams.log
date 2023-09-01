@@ -1,0 +1,79 @@
+[0.524s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/ros2_learners-main/nodes -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/nodes
+[1.440s] -- The C compiler identification is GNU 11.4.0
+[1.441s] -- The CXX compiler identification is GNU 11.4.0
+[1.441s] -- Detecting C compiler ABI info
+[1.441s] -- Detecting C compiler ABI info - done
+[1.441s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.441s] -- Detecting C compile features
+[1.441s] -- Detecting C compile features - done
+[1.441s] -- Detecting CXX compiler ABI info
+[1.441s] -- Detecting CXX compiler ABI info - done
+[1.441s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.441s] -- Detecting CXX compile features
+[1.441s] -- Detecting CXX compile features - done
+[1.441s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.442s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.442s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[1.442s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.442s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.442s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.442s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.442s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.442s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.442s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.442s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.442s] -- Looking for pthread.h
+[1.443s] -- Looking for pthread.h - found
+[1.443s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.449s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.449s] -- Found Threads: TRUE  
+[1.683s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.863s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.982s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.982s] -- Configured cppcheck include dirs: 
+[1.982s] -- Configured cppcheck exclude dirs and/or files: 
+[1.983s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.984s] -- Added test 'lint_cmake' to check CMake code style
+[1.984s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.986s] -- Added test 'uncrustify' to check C / C++ code style
+[1.986s] -- Configured uncrustify additional arguments: 
+[1.987s] -- Added test 'xmllint' to check XML markup files
+[1.988s] -- Configuring done
+[2.013s] -- Generating done
+[2.016s] -- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/nodes
+[2.045s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/ros2_learners-main/nodes -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/nodes
+[2.046s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes -- -j12 -l12
+[2.144s] [ 33%] [32mBuilding CXX object CMakeFiles/pub_node.dir/src/publisher.cpp.o[0m
+[2.144s] [ 33%] [32mBuilding CXX object CMakeFiles/sub_node.dir/src/subscriber.cpp.o[0m
+[2.148s] [ 50%] [32mBuilding CXX object CMakeFiles/laser_pub.dir/src/laser_publisher.cpp.o[0m
+[9.383s] [ 66%] [32m[1mLinking CXX executable laser_pub[0m
+[9.458s] [ 83%] [32m[1mLinking CXX executable pub_node[0m
+[10.052s] [ 83%] Built target laser_pub
+[10.055s] [ 83%] Built target pub_node
+[16.491s] [100%] [32m[1mLinking CXX executable sub_node[0m
+[17.000s] [100%] Built target sub_node
+[17.029s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes -- -j12 -l12
+[17.054s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes
+[17.061s] -- Install configuration: ""
+[17.061s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/pub_node
+[17.062s] -- Set runtime path of "/home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/pub_node" to ""
+[17.062s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/sub_node
+[17.066s] -- Set runtime path of "/home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/sub_node" to ""
+[17.066s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/laser_pub
+[17.067s] -- Set runtime path of "/home/shriram/Desktop/ros2_practice/install/nodes/lib/nodes/laser_pub" to ""
+[17.067s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/ament_index/resource_index/package_run_dependencies/nodes
+[17.068s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/ament_index/resource_index/parent_prefix_path/nodes
+[17.068s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/environment/ament_prefix_path.sh
+[17.068s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/environment/ament_prefix_path.dsv
+[17.068s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/environment/path.sh
+[17.068s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/environment/path.dsv
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/local_setup.bash
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/local_setup.sh
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/local_setup.zsh
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/local_setup.dsv
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/package.dsv
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/ament_index/resource_index/packages/nodes
+[17.069s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/cmake/nodesConfig.cmake
+[17.070s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/cmake/nodesConfig-version.cmake
+[17.070s] -- Installing: /home/shriram/Desktop/ros2_practice/install/nodes/share/nodes/package.xml
+[17.075s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_learners-main/install/robot_math:/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes

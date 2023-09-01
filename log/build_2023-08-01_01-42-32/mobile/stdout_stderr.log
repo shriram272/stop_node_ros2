@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing mobile.egg-info/PKG-INFO
+writing dependency_links to mobile.egg-info/dependency_links.txt
+writing entry points to mobile.egg-info/entry_points.txt
+writing requirements to mobile.egg-info/requires.txt
+writing top-level names to mobile.egg-info/top_level.txt
+reading manifest file 'mobile.egg-info/SOURCES.txt'
+writing manifest file 'mobile.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile.egg-link (link to .)
+Installing move script to /home/shriram/Desktop/ros2_practice/install/mobile/lib/mobile
+
+Installed /home/shriram/Desktop/ros2_practice/build/mobile
+running install_data

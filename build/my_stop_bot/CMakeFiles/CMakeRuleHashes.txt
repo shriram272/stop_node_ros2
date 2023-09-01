@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b75fdb7702bc67ca2d110949934bb660 CMakeFiles/my_stop_bot_uninstall

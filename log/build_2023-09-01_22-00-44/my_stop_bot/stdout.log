@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target stop_bot[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/stop_bot.dir/src/stop_bot.cpp.o[0m
+[100%] [32m[1mLinking CXX executable stop_bot[0m
+[100%] Built target stop_bot
+-- Install configuration: ""
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/package_run_dependencies/my_stop_bot
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/parent_prefix_path/my_stop_bot
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.sh
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/ament_prefix_path.dsv
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.sh
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/environment/path.dsv
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.bash
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.sh
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.zsh
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/local_setup.dsv
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.dsv
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/ament_index/resource_index/packages/my_stop_bot
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig.cmake
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/cmake/my_stop_botConfig-version.cmake
+-- Installing: /home/shriram/Desktop/ros2_practice/install/my_stop_bot/share/my_stop_bot/package.xml

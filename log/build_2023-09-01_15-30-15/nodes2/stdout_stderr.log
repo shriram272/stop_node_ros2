@@ -1,0 +1,23 @@
+[ 66%] Built target sub_node
+[ 66%] Built target laser_pub
+[100%] Built target pub_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/pub_node
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/sub_node
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/laser_pub
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/package_run_dependencies/nodes2
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/parent_prefix_path/nodes2
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.bash
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.sh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.zsh
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.dsv
+-- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.dsv
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/packages/nodes2
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config.cmake
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config-version.cmake
+-- Up-to-date symlink: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.xml

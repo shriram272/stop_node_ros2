@@ -1,0 +1,25 @@
+[0.622s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[0.914s] [ 50%] [32mBuilding CXX object CMakeFiles/pub_node.dir/src/publisher.cpp.o[0m
+[4.353s] [100%] [32m[1mLinking CXX executable pub_node[0m
+[4.510s] [100%] Built target pub_node
+[4.522s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes2 -- -j12 -l12
+[4.543s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2
+[4.550s] -- Install configuration: ""
+[4.551s] -- Execute custom install script
+[4.551s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/lib/nodes2/pub_node
+[4.560s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/package_run_dependencies/nodes2
+[4.569s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/parent_prefix_path/nodes2
+[4.576s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.sh
+[4.584s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/ament_prefix_path.dsv
+[4.591s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.sh
+[4.597s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/environment/path.dsv
+[4.603s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.bash
+[4.608s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.sh
+[4.615s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.zsh
+[4.621s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/local_setup.dsv
+[4.627s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.dsv
+[4.633s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/ament_index/resource_index/packages/nodes2
+[4.638s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config.cmake
+[4.643s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/cmake/nodes2Config-version.cmake
+[4.648s] -- Symlinking: /home/shriram/Desktop/ros2_practice/install/nodes2/share/nodes2/package.xml
+[4.656s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes2

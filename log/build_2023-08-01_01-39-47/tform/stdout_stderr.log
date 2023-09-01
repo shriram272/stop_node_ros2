@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing tform.egg-info/PKG-INFO
+writing dependency_links to tform.egg-info/dependency_links.txt
+writing entry points to tform.egg-info/entry_points.txt
+writing requirements to tform.egg-info/requires.txt
+writing top-level names to tform.egg-info/top_level.txt
+reading manifest file 'tform.egg-info/SOURCES.txt'
+writing manifest file 'tform.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform.egg-link (link to .)
+Installing circ script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+Installing dyn script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+Installing dyn2 script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+
+Installed /home/shriram/Desktop/ros2_practice/build/tform
+running install_data

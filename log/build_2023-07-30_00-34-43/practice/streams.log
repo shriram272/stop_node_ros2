@@ -1,0 +1,31 @@
+[1.625s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build
+[1.886s] running develop
+[2.139s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/shriram/Desktop/ros2_practice/build/practice/build
+[2.141s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/practice': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed
+[2.396s] running egg_info
+[2.396s] writing ../../build/practice/practice.egg-info/PKG-INFO
+[2.396s] writing dependency_links to ../../build/practice/practice.egg-info/dependency_links.txt
+[2.396s] writing entry points to ../../build/practice/practice.egg-info/entry_points.txt
+[2.396s] writing requirements to ../../build/practice/practice.egg-info/requires.txt
+[2.397s] writing top-level names to ../../build/practice/practice.egg-info/top_level.txt
+[2.399s] reading manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[2.400s] writing manifest file '../../build/practice/practice.egg-info/SOURCES.txt'
+[2.400s] running build
+[2.400s] running build_py
+[2.400s] copying practice/move2.py -> /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice
+[2.400s] running install
+[2.401s] running install_lib
+[2.401s] copying /home/shriram/Desktop/ros2_practice/build/practice/build/lib/practice/move2.py -> /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice
+[2.402s] byte-compiling /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice/move2.py to move2.cpython-310.pyc
+[2.403s] running install_data
+[2.404s] running install_egg_info
+[2.406s] removing '/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice-0.0.0-py3.10.egg-info' (and everything under it)
+[2.406s] Copying ../../build/practice/practice.egg-info to /home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages/practice-0.0.0-py3.10.egg-info
+[2.407s] running install_scripts
+[2.429s] Installing circ script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.429s] Installing controller script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.429s] Installing move2 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.429s] Installing node1 script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.429s] Installing pose script to /home/shriram/Desktop/ros2_practice/install/practice/lib/practice
+[2.430s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/practice/install.log'
+[2.482s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/practice' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/practice/prefix_override:/home/shriram/Desktop/ros2_practice/install/practice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/practice build --build-base /home/shriram/Desktop/ros2_practice/build/practice/build install --record /home/shriram/Desktop/ros2_practice/build/practice/install.log --single-version-externally-managed

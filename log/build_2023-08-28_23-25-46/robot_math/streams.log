@@ -1,0 +1,22 @@
+[2.002s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/ros2_learners-main/robot_math': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/robot_math/prefix_override:/home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robot_math build --build-base /home/shriram/Desktop/ros2_practice/build/robot_math/build install --record /home/shriram/Desktop/ros2_practice/build/robot_math/install.log --single-version-externally-managed
+[2.280s] running egg_info
+[2.280s] writing ../../../build/robot_math/robot_math.egg-info/PKG-INFO
+[2.281s] writing dependency_links to ../../../build/robot_math/robot_math.egg-info/dependency_links.txt
+[2.281s] writing entry points to ../../../build/robot_math/robot_math.egg-info/entry_points.txt
+[2.281s] writing requirements to ../../../build/robot_math/robot_math.egg-info/requires.txt
+[2.281s] writing top-level names to ../../../build/robot_math/robot_math.egg-info/top_level.txt
+[2.282s] reading manifest file '../../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.287s] writing manifest file '../../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.288s] running build
+[2.288s] running build_py
+[2.288s] running install
+[2.288s] running install_lib
+[2.289s] running install_data
+[2.290s] running install_egg_info
+[2.291s] removing '/home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info' (and everything under it)
+[2.292s] Copying ../../../build/robot_math/robot_math.egg-info to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info
+[2.292s] running install_scripts
+[2.310s] Installing circle_motion_node script to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/robot_math
+[2.311s] Installing go_To_Goal_node script to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/robot_math
+[2.311s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/robot_math/install.log'
+[2.338s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/ros2_learners-main/robot_math' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/robot_math/prefix_override:/home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robot_math build --build-base /home/shriram/Desktop/ros2_practice/build/robot_math/build install --record /home/shriram/Desktop/ros2_practice/build/robot_math/install.log --single-version-externally-managed

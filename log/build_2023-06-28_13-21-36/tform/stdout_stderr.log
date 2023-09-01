@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/tform/tform.egg-info/PKG-INFO
+writing dependency_links to ../../build/tform/tform.egg-info/dependency_links.txt
+writing entry points to ../../build/tform/tform.egg-info/entry_points.txt
+writing requirements to ../../build/tform/tform.egg-info/requires.txt
+writing top-level names to ../../build/tform/tform.egg-info/top_level.txt
+reading manifest file '../../build/tform/tform.egg-info/SOURCES.txt'
+writing manifest file '../../build/tform/tform.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tform/circ.py -> /home/shriram/Desktop/ros2_practice/build/tform/build/lib/tform
+running install
+running install_lib
+copying /home/shriram/Desktop/ros2_practice/build/tform/build/lib/tform/circ.py -> /home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform
+byte-compiling /home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform/circ.py to circ.cpython-310.pyc
+running install_data
+copying package.xml -> /home/shriram/Desktop/ros2_practice/install/tform/share/tform
+running install_egg_info
+removing '/home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/tform/tform.egg-info to /home/shriram/Desktop/ros2_practice/install/tform/lib/python3.10/site-packages/tform-0.0.0-py3.10.egg-info
+running install_scripts
+Installing circ script to /home/shriram/Desktop/ros2_practice/install/tform/lib/tform
+writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/tform/install.log'

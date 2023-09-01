@@ -1,0 +1,4 @@
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/point_cloud_perception -- -j12 -l12
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/point_cloud_perception -- -j12 -l12
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/point_cloud_perception
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/point_cloud_perception

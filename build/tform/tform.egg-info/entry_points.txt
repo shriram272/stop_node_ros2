@@ -1,0 +1,5 @@
+[console_scripts]
+circ = tform.circ:main
+dyn = tform.dyn:main
+dyn2 = tform.dyn2:main
+

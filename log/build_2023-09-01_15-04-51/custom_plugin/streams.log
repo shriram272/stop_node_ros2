@@ -1,0 +1,55 @@
+[0.053s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/custom_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/custom_plugin -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/custom_plugin
+[1.278s] -- The C compiler identification is GNU 11.4.0
+[1.280s] -- The CXX compiler identification is GNU 11.4.0
+[1.280s] -- Detecting C compiler ABI info
+[1.280s] -- Detecting C compiler ABI info - done
+[1.280s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.280s] -- Detecting C compile features
+[1.280s] -- Detecting C compile features - done
+[1.280s] -- Detecting CXX compiler ABI info
+[1.280s] -- Detecting CXX compiler ABI info - done
+[1.280s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.280s] -- Detecting CXX compile features
+[1.281s] -- Detecting CXX compile features - done
+[1.281s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.281s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.281s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[1.281s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.281s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.281s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.281s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.281s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.281s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.281s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.281s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.281s] -- Looking for pthread.h
+[1.282s] -- Looking for pthread.h - found
+[1.282s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.282s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.282s] -- Found Threads: TRUE  
+[1.282s] -- Found nav2_costmap_2d: 1.1.9 (/opt/ros/humble/share/nav2_costmap_2d/cmake)
+[2.386s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.386s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.160s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.257s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.257s] -- Configured cppcheck include dirs: /home/shriram/Desktop/ros2_practice/src/custom_plugin/include
+[3.257s] -- Configured cppcheck exclude dirs and/or files: 
+[3.258s] -- Added test 'lint_cmake' to check CMake code style
+[3.259s] -- Added test 'uncrustify' to check C / C++ code style
+[3.259s] -- Configured uncrustify additional arguments: 
+[3.260s] -- Added test 'xmllint' to check XML markup files
+[3.262s] -- Configuring done
+[3.269s] -- Generating done
+[3.270s] -- Build files have been written to: /home/shriram/Desktop/ros2_practice/build/custom_plugin
+[3.284s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/custom_plugin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake /home/shriram/Desktop/ros2_practice/src/custom_plugin -DCMAKE_INSTALL_PREFIX=/home/shriram/Desktop/ros2_practice/install/custom_plugin
+[3.285s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/custom_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/custom_plugin -- -j12 -l12
+[3.333s] [ 50%] [32mBuilding CXX object CMakeFiles/SHARED.dir/src/StopBotAction.cpp.o[0m
+[3.340s] In file included from [01m[K/home/shriram/Desktop/ros2_practice/src/custom_plugin/src/StopBotAction.cpp:1[m[K:
+[3.340s] [01m[K/home/shriram/Desktop/ros2_practice/src/custom_plugin/include/StopBotAction.h:4:10:[m[K [01;31m[Kfatal error: [m[Kbehaviortree_cpp_v3/action_node.h: No such file or directory
+[3.340s]     4 | #include [01;31m[K"behaviortree_cpp_v3/action_node.h"[m[K
+[3.340s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.340s] compilation terminated.
+[3.340s] gmake[2]: *** [CMakeFiles/SHARED.dir/build.make:76: CMakeFiles/SHARED.dir/src/StopBotAction.cpp.o] Error 1
+[3.341s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/SHARED.dir/all] Error 2
+[3.341s] gmake: *** [Makefile:146: all] Error 2
+[3.343s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/custom_plugin' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/custom_plugin -- -j12 -l12

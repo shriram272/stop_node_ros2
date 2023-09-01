@@ -1,0 +1,24 @@
+[1.156s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/mobile': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile build --build-base /home/shriram/Desktop/ros2_practice/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/build/mobile/install.log --single-version-externally-managed
+[1.389s] running egg_info
+[1.389s] writing ../../build/mobile/mobile.egg-info/PKG-INFO
+[1.389s] writing dependency_links to ../../build/mobile/mobile.egg-info/dependency_links.txt
+[1.389s] writing entry points to ../../build/mobile/mobile.egg-info/entry_points.txt
+[1.390s] writing requirements to ../../build/mobile/mobile.egg-info/requires.txt
+[1.390s] writing top-level names to ../../build/mobile/mobile.egg-info/top_level.txt
+[1.392s] reading manifest file '../../build/mobile/mobile.egg-info/SOURCES.txt'
+[1.392s] writing manifest file '../../build/mobile/mobile.egg-info/SOURCES.txt'
+[1.393s] running build
+[1.393s] running build_py
+[1.393s] copying mobile/move.py -> /home/shriram/Desktop/ros2_practice/build/mobile/build/lib/mobile
+[1.393s] running install
+[1.393s] running install_lib
+[1.394s] copying /home/shriram/Desktop/ros2_practice/build/mobile/build/lib/mobile/move.py -> /home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile
+[1.394s] byte-compiling /home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile/move.py to move.cpython-310.pyc
+[1.395s] running install_data
+[1.395s] running install_egg_info
+[1.397s] removing '/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile-0.0.0-py3.10.egg-info' (and everything under it)
+[1.397s] Copying ../../build/mobile/mobile.egg-info to /home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages/mobile-0.0.0-py3.10.egg-info
+[1.398s] running install_scripts
+[1.417s] Installing move script to /home/shriram/Desktop/ros2_practice/install/mobile/lib/mobile
+[1.417s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/mobile/install.log'
+[1.468s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/mobile' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/mobile/prefix_override:/home/shriram/Desktop/ros2_practice/install/mobile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile build --build-base /home/shriram/Desktop/ros2_practice/build/mobile/build install --record /home/shriram/Desktop/ros2_practice/build/mobile/install.log --single-version-externally-managed

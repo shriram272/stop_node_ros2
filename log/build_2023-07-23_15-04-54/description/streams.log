@@ -1,0 +1,20 @@
+[2.018s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/description': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/description/prefix_override:/home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/description build --build-base /home/shriram/Desktop/ros2_practice/build/description/build install --record /home/shriram/Desktop/ros2_practice/build/description/install.log --single-version-externally-managed
+[2.435s] running egg_info
+[2.436s] writing ../../build/description/description.egg-info/PKG-INFO
+[2.436s] writing dependency_links to ../../build/description/description.egg-info/dependency_links.txt
+[2.436s] writing entry points to ../../build/description/description.egg-info/entry_points.txt
+[2.437s] writing requirements to ../../build/description/description.egg-info/requires.txt
+[2.437s] writing top-level names to ../../build/description/description.egg-info/top_level.txt
+[2.440s] reading manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.441s] writing manifest file '../../build/description/description.egg-info/SOURCES.txt'
+[2.441s] running build
+[2.441s] running build_py
+[2.442s] running install
+[2.443s] running install_lib
+[2.444s] running install_data
+[2.446s] running install_egg_info
+[2.448s] removing '/home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description-0.0.0-py3.10.egg-info' (and everything under it)
+[2.449s] Copying ../../build/description/description.egg-info to /home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages/description-0.0.0-py3.10.egg-info
+[2.450s] running install_scripts
+[2.483s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/description/install.log'
+[2.589s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/description' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/description/prefix_override:/home/shriram/Desktop/ros2_practice/install/description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/description build --build-base /home/shriram/Desktop/ros2_practice/build/description/build install --record /home/shriram/Desktop/ros2_practice/build/description/install.log --single-version-externally-managed

@@ -1,0 +1,10 @@
+[0.053s] Invoking command in '/home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin -- -j12 -l12
+[0.860s] -- Configuring incomplete, errors occurred!
+[0.860s] See also "/home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin/CMakeFiles/CMakeOutput.log".
+[0.860s] [31mCMake Error at CMakeLists.txt:3:
+[0.860s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.860s]   "​".
+[0.860s] 
+[0.861s] [0m
+[0.861s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[1.124s] Invoked command in '/home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/shriram/Desktop/ros2_practice/install/tform:/home/shriram/Desktop/ros2_practice/install/robot_math:/home/shriram/Desktop/ros2_practice/install/practice:/home/shriram/Desktop/ros2_practice/install/mobile:/home/shriram/Desktop/ros2_practice/install/description:/home/shriram/Desktop/ros2_practice/install/cv_basics:/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/custom_nav2_costmap_plugin -- -j12 -l12

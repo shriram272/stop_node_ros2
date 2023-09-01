@@ -1,0 +1,41 @@
+[2.232s] Invoking command in '/home/shriram/Desktop/ros2_practice/src/ros2_learners-main/robot_math': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/robot_math/prefix_override:/home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robot_math build --build-base /home/shriram/Desktop/ros2_practice/build/robot_math/build install --record /home/shriram/Desktop/ros2_practice/build/robot_math/install.log --single-version-externally-managed
+[2.682s] running egg_info
+[2.682s] creating ../../../build/robot_math/robot_math.egg-info
+[2.682s] writing ../../../build/robot_math/robot_math.egg-info/PKG-INFO
+[2.683s] writing dependency_links to ../../../build/robot_math/robot_math.egg-info/dependency_links.txt
+[2.683s] writing entry points to ../../../build/robot_math/robot_math.egg-info/entry_points.txt
+[2.683s] writing requirements to ../../../build/robot_math/robot_math.egg-info/requires.txt
+[2.683s] writing top-level names to ../../../build/robot_math/robot_math.egg-info/top_level.txt
+[2.683s] writing manifest file '../../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.685s] reading manifest file '../../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.687s] writing manifest file '../../../build/robot_math/robot_math.egg-info/SOURCES.txt'
+[2.687s] running build
+[2.687s] running build_py
+[2.687s] creating /home/shriram/Desktop/ros2_practice/build/robot_math/build
+[2.688s] creating /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib
+[2.688s] creating /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math
+[2.688s] copying robot_math/gtg.py -> /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math
+[2.688s] copying robot_math/__init__.py -> /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math
+[2.688s] copying robot_math/andular_velocity.py -> /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math
+[2.689s] running install
+[2.689s] running install_lib
+[2.690s] creating /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math
+[2.691s] copying /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math/gtg.py -> /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math
+[2.691s] copying /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math/__init__.py -> /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math
+[2.691s] copying /home/shriram/Desktop/ros2_practice/build/robot_math/build/lib/robot_math/andular_velocity.py -> /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math
+[2.691s] byte-compiling /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math/gtg.py to gtg.cpython-310.pyc
+[2.693s] byte-compiling /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math/__init__.py to __init__.cpython-310.pyc
+[2.693s] byte-compiling /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math/andular_velocity.py to andular_velocity.cpython-310.pyc
+[2.693s] running install_data
+[2.695s] creating /home/shriram/Desktop/ros2_practice/install/robot_math/share/ament_index
+[2.695s] creating /home/shriram/Desktop/ros2_practice/install/robot_math/share/ament_index/resource_index
+[2.695s] creating /home/shriram/Desktop/ros2_practice/install/robot_math/share/ament_index/resource_index/packages
+[2.695s] copying resource/robot_math -> /home/shriram/Desktop/ros2_practice/install/robot_math/share/ament_index/resource_index/packages
+[2.695s] copying package.xml -> /home/shriram/Desktop/ros2_practice/install/robot_math/share/robot_math
+[2.696s] running install_egg_info
+[2.698s] Copying ../../../build/robot_math/robot_math.egg-info to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages/robot_math-0.0.0-py3.10.egg-info
+[2.699s] running install_scripts
+[2.732s] Installing circle_motion_node script to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/robot_math
+[2.733s] Installing go_To_Goal_node script to /home/shriram/Desktop/ros2_practice/install/robot_math/lib/robot_math
+[2.733s] writing list of installed files to '/home/shriram/Desktop/ros2_practice/build/robot_math/install.log'
+[2.835s] Invoked command in '/home/shriram/Desktop/ros2_practice/src/ros2_learners-main/robot_math' returned '0': PYTHONPATH=/home/shriram/Desktop/ros2_practice/build/robot_math/prefix_override:/home/shriram/Desktop/ros2_practice/install/robot_math/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robot_math build --build-base /home/shriram/Desktop/ros2_practice/build/robot_math/build install --record /home/shriram/Desktop/ros2_practice/build/robot_math/install.log --single-version-externally-managed

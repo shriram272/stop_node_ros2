@@ -1,0 +1,4 @@
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes -- -j12 -l12
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shriram/Desktop/ros2_practice/build/nodes -- -j12 -l12
+Invoking command in '/home/shriram/Desktop/ros2_practice/build/nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes
+Invoked command in '/home/shriram/Desktop/ros2_practice/build/nodes' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shriram/Desktop/ros2_practice/build/nodes

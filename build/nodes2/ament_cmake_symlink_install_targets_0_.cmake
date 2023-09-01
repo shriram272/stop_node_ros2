@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/shriram/Desktop/ros2_practice/build/nodes2/pub_node" "/home/shriram/Desktop/ros2_practice/build/nodes2/sub_node" "/home/shriram/Desktop/ros2_practice/build/nodes2/laser_pub" "TARGETS" "pub_node" "sub_node" "laser_pub" "DESTINATION" "lib/nodes2")
